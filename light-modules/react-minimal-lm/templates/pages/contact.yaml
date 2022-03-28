@@ -1,5 +1,5 @@
 title: 'React: Contact'
-baseUrl: https://business-review-magnolia.netlify.app/
+baseUrl: http://localhost:3000/
 routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic

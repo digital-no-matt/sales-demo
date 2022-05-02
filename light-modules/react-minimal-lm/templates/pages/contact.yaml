@@ -1,5 +1,5 @@
 title: 'React: Contact'
-baseUrl: https://the-saas-is-just-great.netlify.app/
+baseUrl: http://localhost:3000/
 routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic

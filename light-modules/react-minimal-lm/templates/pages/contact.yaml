@@ -1,5 +1,5 @@
 title: 'React: Contact'
-baseUrl: https://arvato-and-magnolia-rock.netlify.app/
+baseUrl: http://localhost:3000/
 routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic

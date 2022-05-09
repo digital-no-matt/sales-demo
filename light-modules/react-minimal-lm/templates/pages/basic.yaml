@@ -10,7 +10,7 @@ class: info.magnolia.rendering.spa.renderer.SpaRenderableDefinition
 
 areas:
   main:
-    title: Main Area
+    title: Main Area and the best one EVER
     availableComponents:
       Headline:
         id: spa-lm:components/headline

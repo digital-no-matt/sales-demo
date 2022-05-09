@@ -1,6 +1,6 @@
 title: 'React: Basic'
 
-baseUrl: http://localhost:3000/
+baseUrl: https://dev5310-and-magnolia-are-awesome.netlify.app/
 routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic
@@ -10,7 +10,7 @@ class: info.magnolia.rendering.spa.renderer.SpaRenderableDefinition
 
 areas:
   main:
-    title: Main Area and the best one EVER
+    title: Main Area
     availableComponents:
       Headline:
         id: spa-lm:components/headline

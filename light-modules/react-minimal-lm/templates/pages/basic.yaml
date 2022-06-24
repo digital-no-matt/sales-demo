@@ -1,6 +1,6 @@
 title: 'React: Basic'
 
-baseUrl: https://avon-demo-isnt-this-great.netlify.app
+baseUrl: localhost:3000
 routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic

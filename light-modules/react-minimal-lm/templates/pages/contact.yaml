@@ -1,5 +1,4 @@
 title: 'React: Contact'
-
 baseUrl: localhost:3000
 routeTemplate: '/{language}{{@path}}'
 

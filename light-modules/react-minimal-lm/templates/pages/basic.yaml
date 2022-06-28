@@ -1,6 +1,6 @@
 title: 'React: Basic'
 
-baseUrl: https://vocal-belekoy-7e9252.netlify.app
+baseUrl: http://localhost:3000
 routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic

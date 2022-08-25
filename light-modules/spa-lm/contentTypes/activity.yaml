@@ -5,8 +5,8 @@ model:
   nodeType: activity
   properties:
     name:
-      label: Name Test
-      i18n: true
+      label: Name Avon
+      i18n: false
       required: true
     description:
       type: richText
